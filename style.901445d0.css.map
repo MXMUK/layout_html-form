@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,OACE,aACF,CAEA,kBACE,kBACF,CAEA,gBACE,kBACF","file":"style.901445d0.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n\n.label {\n  display: block;\n}\n\n.margin-for-input {\n  margin-bottom: 10px;\n}\n\n.margin-for-box {\n  margin-bottom: 20px;\n}\n"]}
